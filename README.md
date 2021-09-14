@@ -10,6 +10,7 @@ This repository contains the solution for Summer Olympics Data Analysis Assignme
  ### 2.Summer.csv:
  This file contains Summer Olympics data and attributes like Year,Name of the sport,Name of Players,Event,Medal.
 
-
-
-
+ ### 3.README.md :
+ This file contains the information about Assignment.
+ 
+ 
